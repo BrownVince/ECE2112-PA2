@@ -5,6 +5,9 @@ Sept. 09, 2024
 # Version History
 V1.0 (09-09-24) - Initial Release and Submission of Github Link  
 V1.1 (09-15-24) - Edited Documentation in the Readme File
+# Software Used
+<img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Logo" width="100"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
 # NORMALIZATION PROBLEM
 * In the normalization problem, I first tried using random.random(), but the outputs are only in float. Therefore, I tried using other functions in order to create a random array with int values, so I used random.choice(), then set the values from 0-100 and set the size to 5x5. 
 ```
