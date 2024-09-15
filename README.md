@@ -19,7 +19,7 @@ V2.1 (09-15-24) - Added Designs in the Readme File
 * In the normalization problem, I first tried using random.random(), but the outputs are only in float. Therefore, I tried using other functions in order to create a random array with int values, so I used random.choice(), then set the values from 0-100 and set the size to 5x5. 
 ```
 import numpy as np
-sample = np.random.choice(100, size=(5,5))
+X = np.random.choice(100, size=(5,5))
 ```
 * After that, I used .mean() and .std() to calculate for the mean and standard deviation respectively. Furthermore, for the computation part, I tried to split it in to two parts, the centering and scaling process.
 ```
