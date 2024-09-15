@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi , I'm Vince Joriz E. Supsup  
+# Hi! <img src="https://github.com/user-attachments/assets/d21e6cd6-76a9-4934-8910-809aa4815251" alt="Wave" width="30"/>, I'm Vince Joriz E. Supsup  
 From 2ECE-D, and this is my Programming Assignment #2 in ECE2112  
 Submitted: Sept. 09, 2024 
 
@@ -8,7 +8,8 @@ Submitted: Sept. 09, 2024
 
 # Version History
 V1.0 (09-09-24) - Initial Release and Submission of Github Link  
-V1.1 (09-15-24) - Edited Documentation in the Readme File
+V2.0 (09-15-24) - Edited Documentation in the Readme File  
+V2.1 (09-15-24) - Added Designs in the Readme File
 
 # Software(s) Used
 <img src="https://github.com/user-attachments/assets/32ea11b3-b4e5-4efa-a673-ce2b102ab4b5" alt="Jupyter Logo" width="80"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100"/>
